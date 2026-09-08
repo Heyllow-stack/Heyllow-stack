@@ -1,20 +1,21 @@
-<font color="#FF6B6B">Jeiv --------------------</font><br>
-<font color="#FF6B6B">- OS:</font> ................... <font color="#D6FFFF">Windows 10, Omarchy Linux</font><br>
-<font color="#FF6B6B">- Editor:</font> ............... <font color="#D6FFFF">Visual Studio Code, Unity Editor</font><br>
-<font color="#FF6B6B">- Tools:</font> ................ <font color="#D6FFFF">Git, GitHub, Vite, Tailwind CSS</font><br>
-<br>
-<font color="#FFB86C">- Languages.Programming:</font> <font color="#D6FFFF">JavaScript, Python, HTML5</font><br>
-<font color="#FFB86C">- Languages.Styling:</font> .... <font color="#D6FFFF">CSS3, Tailwind CSS</font><br>
-<font color="#FFB86C">- Frameworks.Web:</font> ....... <font color="#D6FFFF">React, Vite</font><br>
-<font color="#FFB86C">- Languages.Real:</font> ......... <font color="#D6FFFF">English, Filipino</font><br>
-<br>
-<font color="#FFB86C">- Hobbies.Software:</font> ..... <font color="#D6FFFF">Web Development, Game Development</font><br>
-<font color="#FFB86C">- Hobbies.Tools:</font> ........ <font color="#D6FFFF">Blender, Unity Cloud, VS Code</font><br>
-<br>
-<font color="#FF6B6B">Contact -----------------</font><br>
-<font color="#FF6B6B">- Email:</font> ................ <font color="#D6FFFF">sabanayjeivalsabanay@gmail.com</font><br>
-<font color="#FF6B6B">- GitHub:</font> ............... <font color="#D6FFFF">github.com/Heylow-stack</font><br>
-<br>
-<font color="#FF6B6B">GitHub Stats ------------</font><br>
-<font color="#FF6B6B">- Repos:</font> ................ <font color="#D6FFFF">12</font> | <font color="#FF6B6B">Stars:</font> ................ <font color="#D6FFFF">1</font><br>
-<font color="#FF6B6B">- Commits:</font> .............. <font color="#D6FFFF">N/A</font> | <font color="#FF6B6B">Followers:</font> ............ <font color="#D6FFFF">1</font>
+<pre><b><span style="color: #FFD700;">Jeiv --------------------</span></b>
+- <span style="color: #00BCD4;">OS:</span> ................... <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
+- <span style="color: #00BCD4;">Editor:</span> ............... <span style="color: #4CAF50;">Visual Studio Code, Unity Editor</span>
+- <span style="color: #00BCD4;">Tools:</span> ................ <span style="color: #4CAF50;">Git, GitHub, Vite, Tailwind CSS</span>
+
+- <span style="color: #00BCD4;">Languages.Programming:</span> <span style="color: #4CAF50;">JavaScript, Python, HTML5</span>
+- <span style="color: #00BCD4;">Languages.Styling:</span> .... <span style="color: #4CAF50;">CSS3, Tailwind CSS</span>
+- <span style="color: #00BCD4;">Frameworks.Web:</span> ....... <span style="color: #4CAF50;">React, Vite</span>
+- <span style="color: #00BCD4;">Languages.Real:</span> ......... <span style="color: #4CAF50;">English, Filipino</span>
+
+- <span style="color: #00BCD4;">Hobbies.Software:</span> ..... <span style="color: #4CAF50;">Web Development, Game Development</span>
+- <span style="color: #00BCD4;">Hobbies.Tools:</span> ........ <span style="color: #4CAF50;">Blender, Unity Cloud, VS Code</span>
+
+<span style="color: #FFD700;"><b>Contact -----------------</b></span>
+- <span style="color: #00BCD4;">Email:</span> ................ <span style="color: #4CAF50;">sabanayjeivalsabanay@gmail.com</span>
+- <span style="color: #00BCD4;">GitHub:</span> ............... <span style="color: #4CAF50;">github.com/Heylow-stack</span>
+
+<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
+- <span style="color: #00BCD4;">Repos:</span> ................ <span style="color: #4CAF50;">12</span> | <span style="color: #00BCD4;">Stars:</span> ................ <span style="color: #4CAF50;">1</span>
+- <span style="color: #00BCD4;">Commits:</span> .............. <span style="color: #4CAF50;">N/A</span> | <span style="color: #00BCD4;">Followers:</span> ............ <span style="color: #4CAF50;">1</span>
+</pre>
