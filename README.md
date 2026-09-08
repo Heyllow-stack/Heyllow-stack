@@ -1,19 +1,21 @@
-[33mJeiv --------------------[0m
-[36mOS:[0m ................... [32mWindows 10, Omarchy Linux[0m
-[36mEditor:[0m ............... [32mVS Code, Unity Editor[0m
-[36mTools:[0m ................ [32mGit, GitHub, Tailwind CSS[0m
+<pre><b><span style="color: #FFD700;">Jeiv --------------------</span></b>
+- <span style="color: #00BCD4;">OS:</span> ................... <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
+- <span style="color: #00BCD4;">Editor:</span> ............... <span style="color: #4CAF50;">Visual Studio Code, Unity Editor</span>
+- <span style="color: #00BCD4;">Tools:</span> ................ <span style="color: #4CAF50;">Git, GitHub, Vite, Tailwind CSS</span>
 
-[36mLanguages.Prog:[0m ....... [32mJavaScript, Python[0m
-[36mLanguages.Style:[0m ...... [32mCSS3, Tailwind CSS[0m
-[36mFrameworks.Web:[0m ....... [32mReact, Vite[0m
-[36mLanguages.Real:[0m ....... [32mEnglish, Filipino[0m
+- <span style="color: #00BCD4;">Languages.Programming:</span> <span style="color: #4CAF50;">JavaScript, Python, HTML5</span>
+- <span style="color: #00BCD4;">Languages.Styling:</span> .... <span style="color: #4CAF50;">CSS3, Tailwind CSS</span>
+- <span style="color: #00BCD4;">Frameworks.Web:</span> ....... <span style="color: #4CAF50;">React, Vite</span>
+- <span style="color: #00BCD4;">Languages.Real:</span> ......... <span style="color: #4CAF50;">English, Filipino</span>
 
-[36mHobbies.Software:[0m ..... [32mWeb & Game Dev[0m
-[36mHobbies.Tools:[0m ........ [32mBlender, Unity Cloud[0m
+- <span style="color: #00BCD4;">Hobbies.Software:</span> ..... <span style="color: #4CAF50;">Web Development, Game Development</span>
+- <span style="color: #00BCD4;">Hobbies.Tools:</span> ........ <span style="color: #4CAF50;">Blender, Unity Cloud, VS Code</span>
 
-[33mContact -----------------[0m
-[36mEmail:[0m ................ [32msabanayjeiv@gmail.com[0m
-[36mGitHub:[0m ............... [32mgithub.com/Heylow-stack[0m
+<span style="color: #FFD700;"><b>Contact -----------------</b></span>
+- <span style="color: #00BCD4;">Email:</span> ................ <span style="color: #4CAF50;">sabanayjeivalsabanay@gmail.com</span>
+- <span style="color: #00BCD4;">GitHub:</span> ............... <span style="color: #4CAF50;">github.com/Heylow-stack</span>
 
-[33mGitHub Stats ------------[0m
-[36mRepos:[0m 12 | [36mStars:[0m 1 | [36mCommits:[0m N/A
+<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
+- <span style="color: #00BCD4;">Repos:</span> ................ <span style="color: #4CAF50;">12</span> | <span style="color: #00BCD4;">Stars:</span> ................ <span style="color: #4CAF50;">1</span>
+- <span style="color: #00BCD4;">Commits:</span> .............. <span style="color: #4CAF50;">N/A</span> | <span style="color: #00BCD4;">Followers:</span> ............ <span style="color: #4CAF50;">1</span>
+</pre>
