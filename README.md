@@ -1,11 +1,5 @@
-<table>
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://github.com/Heyllow-stack/Heyllow-stack/blob/13871670662678d0aa72edcdc8eff2042dd999b4/18TheCoder.png" width="150px" />
-    </td>
-    <td width="70%">
 <pre>
-<span style="color: #FFD700;"><b>Jeiv --------------------</b></span>
+<span style="color: #FFD700;"><b>Jeiv --------------------</b></span> 
 <span style="color: #00BCD4;">OS:</span> ................... <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
 <span style="color: #00BCD4;">Editor:</span> ............... <span style="color: #4CAF50;">VS Code, Unity Editor</span>
 <span style="color: #00BCD4;">Tools:</span> ................ <span style="color: #4CAF50;">Git, GitHub, Tailwind CSS</span>
@@ -17,7 +11,11 @@
 
 <span style="color: #00BCD4;">Hobbies.Software:</span> ..... <span style="color: #4CAF50;">Web & Game Dev</span>
 <span style="color: #00BCD4;">Hobbies.Tools:</span> ........ <span style="color: #4CAF50;">Blender, Unity Cloud</span>
+
+<span style="color: #FFD700;"><b>Contact -----------------</b></span>
+<span style="color: #00BCD4;">Email:</span> ................ <span style="color: #4CAF50;">sabanayjeiv@gmail.com</span>
+<span style="color: #00BCD4;">GitHub:</span> ............... <span style="color: #4CAF50;">github.com/Heylow-stack</span>
+
+<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
+<span style="color: #00BCD4;">Repos:</span> 12 | <span style="color: #00BCD4;">Stars:</span> 1 | <span style="color: #00BCD4;">Commits:</span> N/A
 </pre>
-    </td>
-  </tr>
-</table>
