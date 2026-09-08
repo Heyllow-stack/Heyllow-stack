@@ -1,9 +1,3 @@
-
-will always be one color.
-
-If you want the **terminal look + actual colors**, the easiest option is to use HTML for the text. Try this in your `README.md`:
-
-```html
 <h3><font color="#00FFFF">Jeiv --------------------</font></h3>
 
 <font color="#00FF00">- OS:</font> ................... Windows 10, Omarchy Linux<br>
