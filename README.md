@@ -1,43 +1,21 @@
 ```text
-(
-andrew@grant -----------
-- OS: ................... Windows 10, Android 14, Linux
-- Uptime: ............... 22 years, 5 months, 29 days
-- Host: ................. TTM Technologies, Inc.
-- Kernel: ............... CAM (Computer Aided Manufacturing) Operator
-- IDE: .................. IDEA 2023.3.2, VSCode 1.96.0
+\u001b[33mJeiv --------------------\u001b[0m
+- \u001b[36mOS:\u001b[0m ................... \u001b[32mWindows 10, Omarchy Linux\u001b[0m
+- \u001b[36mEditor:\u001b[0m ............... \u001b[32mVisual Studio Code, Unity Editor\u001b[0m
+- \u001b[36mTools:\u001b[0m ................ \u001b[32mGit, GitHub, Vite, Tailwind CSS\u001b[0m
 
-- Languages.Programming: Java, Python, JavaScript, C++
-- Languages.Computer: ... HTML, CSS, JSON, LaTeX, YAML
-- Languages.Real: ......... English, Spanish
+- \u001b[36mLanguages.Programming:\u001b[0m \u001b[32mJavaScript, Python, HTML5\u001b[0m
+- \u001b[36mLanguages.Styling:\u001b[0m .... \u001b[32mCSS3, Tailwind CSS\u001b[0m
+- \u001b[36mFrameworks.Web:\u001b[0m ....... \u001b[32mReact, Vite\u001b[0m
+- \u001b[36mLanguages.Real:\u001b[0m ......... \u001b[32mEnglish, Filipino\u001b[0m
 
-- Hobbies.Software: ..... Minecraft Modding, iOS Jailbreaking
-- Hobbies.Hardware: ..... Overclocking, Undervolting
+- \u001b[36mHobbies.Software:\u001b[0m ..... \u001b[32mWeb Development, Game Development\u001b[0m
+- \u001b[36mHobbies.Tools:\u001b[0m ........ \u001b[32mBlender, Unity Cloud, VS Code\u001b[0m
 
-- Contact ----------------
-- Email.Personal: ....... agrantnmac@gmail.com
-- Email.Personal: ....... andrew@grant.software
-- Email.Work: ........... Andrew.Grant@ttmtech.com
-- LinkedIn: ............. andrewgrant
-- Discord: .............. andrewgrant
+- \u001b[33mContact -----------------\u001b[0m
+- \u001b[36mEmail:\u001b[0m ................ \u001b[32msabanayjeivalsabanay@gmail.com\u001b[0m
+- \u001b[36mGitHub:\u001b[0m ............... \u001b[[32mgithub.com/Heylow-stack](https://32mgithub.com/Heylow-stack)\u001b[0m
 
-- GitHub Stats -----------
-- Repos: ................ 95 (Contributed: 133) | Stars: ................ 342
-- Commits: .............. 2,116 | Followers: ............ 196
-- Lines of Code on GitHub: 446,276 ( 523,178++, 76,902-- )
-)
-
-<!--
-**Heyllow-stack/Heyllow-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- \u001b[33mGitHub Stats ------------\u001b[0m
+- \u001b[36mRepos:\u001b[0m ................ \u001b[32m12\u001b[0m | \u001b[36mStars:\u001b[0m ................ \u001b[32m1\u001b[0m
+- \u001b[36mCommits:\u001b[0m .............. \u001b[32mN/A\u001b[0m | \u001b[36mFollowers:\u001b[0m ............ \u001b[32m1\u001b[0m
