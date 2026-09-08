@@ -1,5 +1,5 @@
 <pre>
-<span style="color: #FFD700;"><b>Jeiv --------------------</b></span> 
+<span style="color: #FFD700;"><b>Jeiv --------------------</b></span> ![image]()
 <span style="color: #00BCD4;">OS:</span> ................... <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
 <span style="color: #00BCD4;">Editor:</span> ............... <span style="color: #4CAF50;">VS Code, Unity Editor</span>
 <span style="color: #00BCD4;">Tools:</span> ................ <span style="color: #4CAF50;">Git, GitHub, Tailwind CSS</span>
