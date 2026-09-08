@@ -1,21 +1,31 @@
-<pre><b><span style="color: #FFD700;">Jeiv --------------------</span></b>
-- <span style="color: #00BCD4;">OS:</span> ................... <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
-- <span style="color: #00BCD4;">Editor:</span> ............... <span style="color: #4CAF50;">Visual Studio Code, Unity Editor</span>
-- <span style="color: #00BCD4;">Tools:</span> ................ <span style="color: #4CAF50;">Git, GitHub, Vite, Tailwind CSS</span>
 
-- <span style="color: #00BCD4;">Languages.Programming:</span> <span style="color: #4CAF50;">JavaScript, Python, HTML5</span>
-- <span style="color: #00BCD4;">Languages.Styling:</span> .... <span style="color: #4CAF50;">CSS3, Tailwind CSS</span>
-- <span style="color: #00BCD4;">Frameworks.Web:</span> ....... <span style="color: #4CAF50;">React, Vite</span>
-- <span style="color: #00BCD4;">Languages.Real:</span> ......... <span style="color: #4CAF50;">English, Filipino</span>
+will always be one color.
 
-- <span style="color: #00BCD4;">Hobbies.Software:</span> ..... <span style="color: #4CAF50;">Web Development, Game Development</span>
-- <span style="color: #00BCD4;">Hobbies.Tools:</span> ........ <span style="color: #4CAF50;">Blender, Unity Cloud, VS Code</span>
+If you want the **terminal look + actual colors**, the easiest option is to use HTML for the text. Try this in your `README.md`:
 
-<span style="color: #FFD700;"><b>Contact -----------------</b></span>
-- <span style="color: #00BCD4;">Email:</span> ................ <span style="color: #4CAF50;">sabanayjeivalsabanay@gmail.com</span>
-- <span style="color: #00BCD4;">GitHub:</span> ............... <span style="color: #4CAF50;">github.com/Heylow-stack</span>
+```html
+<h3><font color="#00FFFF">Jeiv --------------------</font></h3>
 
-<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
-- <span style="color: #00BCD4;">Repos:</span> ................ <span style="color: #4CAF50;">12</span> | <span style="color: #00BCD4;">Stars:</span> ................ <span style="color: #4CAF50;">1</span>
-- <span style="color: #00BCD4;">Commits:</span> .............. <span style="color: #4CAF50;">N/A</span> | <span style="color: #00BCD4;">Followers:</span> ............ <span style="color: #4CAF50;">1</span>
-</pre>
+<font color="#00FF00">- OS:</font> ................... Windows 10, Omarchy Linux<br>
+<font color="#00FF00">- Editor:</font> ............... Visual Studio Code, Unity Editor<br>
+<font color="#00FF00">- Tools:</font> ................ Git, GitHub, Vite, Tailwind CSS<br>
+<br>
+
+<font color="#00FFFF">- Languages.Programming:</font> JavaScript, Python, HTML5<br>
+<font color="#00FFFF">- Languages.Styling:</font> .... CSS3, Tailwind CSS<br>
+<font color="#00FFFF">- Frameworks.Web:</font> ....... React, Vite<br>
+<font color="#00FFFF">- Languages.Real:</font> ....... English, Filipino<br>
+<br>
+
+<font color="#00FFFF">- Hobbies.Software:</font> .... Web Development, Game Development<br>
+<font color="#00FFFF">- Hobbies.Tools:</font> ........ Blender, Unity Cloud, VS Code<br>
+<br>
+
+<font color="#FF00FF">Contact -----------------</font><br>
+<font color="#00FF00">- Email:</font> ................ sabanayjeivalsabanay@gmail.com<br>
+<font color="#00FF00">- GitHub:</font> ............... github.com/Heylow-stack<br>
+<br>
+
+<font color="#FF00FF">GitHub Stats ------------</font><br>
+<font color="#00FF00">- Repos:</font> ................ 12 | <font color="#00FF00">Stars:</font> ................ 1<br>
+<font color="#00FF00">- Commits:</font> .............. N/A | <font color="#00FF00">Followers:</font> ............ 1
