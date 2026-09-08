@@ -1,25 +1,21 @@
-<h3><font color="#00FFFF">Jeiv --------------------</font></h3>
+Jeiv -----------
 
-<font color="#00FF00">- OS:</font> ................... Windows 10, Omarchy Linux<br>
-<font color="#00FF00">- Editor:</font> ............... Visual Studio Code, Unity Editor<br>
-<font color="#00FF00">- Tools:</font> ................ Git, GitHub, Vite, Tailwind CSS<br>
-<br>
+- OS: ................... Windows 10, Omarchy Linux
+- Editor: ............... Visual Studio Code, Unity Editor
+- Tools: ................ Git, GitHub, Vite, Tailwind CSS
 
-<font color="#00FFFF">- Languages.Programming:</font> JavaScript, Python, HTML5<br>
-<font color="#00FFFF">- Languages.Styling:</font> .... CSS3, Tailwind CSS<br>
-<font color="#00FFFF">- Frameworks.Web:</font> ....... React, Vite<br>
-<font color="#00FFFF">- Languages.Real:</font> ....... English, Filipino<br>
-<br>
+- Languages.Programming:  JavaScript, python, HTML5
+- Languages.Styling: .... CSS3, Tailwind CSS
+- Frameworks.Web: ....... React, Vite,
+- Languages.Real: ......... English, Filipino
 
-<font color="#00FFFF">- Hobbies.Software:</font> .... Web Development, Game Development<br>
-<font color="#00FFFF">- Hobbies.Tools:</font> ........ Blender, Unity Cloud, VS Code<br>
-<br>
+- Hobbies.Software: ..... Web Development, Game Development
+- Hobbies.Tools: ........ Blender, Unity Cloud, VS Code
 
-<font color="#FF00FF">Contact -----------------</font><br>
-<font color="#00FF00">- Email:</font> ................ sabanayjeivalsabanay@gmail.com<br>
-<font color="#00FF00">- GitHub:</font> ............... github.com/Heylow-stack<br>
-<br>
+- Contact ----------------
+- Email: ................ sabanayjeivalsabanay@gmail.com
+- GitHub: ............... github.com/Heylow-stack
 
-<font color="#FF00FF">GitHub Stats ------------</font><br>
-<font color="#00FF00">- Repos:</font> ................ 12 | <font color="#00FF00">Stars:</font> ................ 1<br>
-<font color="#00FF00">- Commits:</font> .............. N/A | <font color="#00FF00">Followers:</font> ............ 1
+- GitHub Stats -----------
+- Repos: ................ 12 | Stars: ................ 1
+- Commits: .............. N/A | Followers: ............ 1
