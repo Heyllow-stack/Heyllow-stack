@@ -1,5 +1,5 @@
 <pre>
-<img src="https://github.com/Heyllow-stack/Heyllow-stack/blob/2eaa7a5d04d6e6e62842783e72b943bb399fc5c3/TheGoat.png" width="400" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/Heyllow-stack/Heyllow-stack/blob/2eaa7a5d04d6e6e62842783e72b943bb399fc5c3/TheGoat.png" width="350" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 <span style="color: #FFD700;"><b>Jeiv ------------------------</b></span>
 <span style="color: #00BCD4;">OS: .......................</span> <span style="color: #4CAF50;">Windows 10, Omarchy Linux</span>
 <span style="color: #00BCD4;">Editor: ...................</span> <span style="color: #4CAF50;">VS Code, Unity Editor</span>
@@ -17,6 +17,6 @@
 <span style="color: #00BCD4;">Email: ....................</span> <span style="color: #4CAF50;">sabanayjeivalsabanay@gmail.com</span>
 <span style="color: #00BCD4;">GitHub: ...................</span> <span style="color: #4CAF50;">github.com/Heylow-stack</span>
             
-<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
-<span style="color: #00BCD4;">Repos:</span> 12 | <span style="color: #00BCD4;">Stars:</span> 1 | <span style="color: #00BCD4;">Commits:</span> N/A
+                                                  <span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
+                                                  <span style="color: #00BCD4;">Repos:</span> 12 | <span style="color: #00BCD4;">Stars:</span> 1 | <span style="color: #00BCD4;">Commits:</span> N/A
 </pre>
