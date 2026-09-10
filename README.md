@@ -17,6 +17,6 @@
 <span style="color: #00BCD4;">Email: ....................</span> <span style="color: #4CAF50;">sabanayjeivalsabanay@gmail.com</span>
 <span style="color: #00BCD4;">GitHub: ...................</span> <span style="color: #4CAF50;">github.com/Heylow-stack</span>
             
-                                                  <span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
-                                                  <span style="color: #00BCD4;">Repos:</span> 12 | <span style="color: #00BCD4;">Stars:</span> 1 | <span style="color: #00BCD4;">Commits:</span> N/A
+<span style="color: #FFD700;"><b>GitHub Stats ------------</b></span>
+<span style="color: #00BCD4;">Repos:</span> 12 | <span style="color: #00BCD4;">Stars:</span> 1 | <span style="color: #00BCD4;">Commits:</span> N/A
 </pre>
